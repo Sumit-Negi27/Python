@@ -18,3 +18,17 @@ name="sumit negi"
 
 print(name[0:5:1])
 print(name[6::])
+
+#type conversion 
+# int () float() str() bool() 
+#boolean mai falsy wale 0 , 0.0 , FALSE , () , [] , {} , " "
+x=""
+x=bool(x)
+print(x)
+num=123
+b=str(num)
+print(b)
+
+#type conversion 2 type 
+# implicit python khudse data conversion krta h and explicit ismai hamko krna padhta h
+
