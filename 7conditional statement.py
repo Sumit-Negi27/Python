@@ -1,10 +1,10 @@
-#CONDITIONAL STATEMENT
+# CONDITIONAL STATEMENT
 # if-else ; if-elif-else ;
 
-# if 3>4:
-#     print("shi h")
-# else:
-#     print("glt h bhai ")
+if 3>4:
+    print("shi h")
+else:
+    print("glt h bhai ")
 
 a=input("enter the alphabet : ")
 
@@ -20,3 +20,4 @@ elif a=="u" or a=="U":
     print("it is vowel")
 else:
     print("not vowel")
+
